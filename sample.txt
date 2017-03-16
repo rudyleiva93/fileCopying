@@ -1,0 +1,1 @@
+This is a sample text file that is to be used with the C code fileCopying.c to demonstrate file I/O. Particularly, it demonstrates copying the data from a source file to a destination file.
